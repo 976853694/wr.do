@@ -87,7 +87,7 @@ WR.DO 是一个一站式网络工具平台，集成短链服务、临时邮箱�
 
 ### 使用 Vercel 部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oiov/wr.do.git&project-name=wrdo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/976853694/wr.do.git&project-name=wrdo)
 
 记得填写必要的环境变量。
 
